@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish6523&label=Profile%20views&color=0e75b6&style=flat" alt="ashish6523" /> </p>
 
-- 🌱 I’m currently learning **React,Spring Boot,Swift,Kubernates**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [GFG](GFG)
 
